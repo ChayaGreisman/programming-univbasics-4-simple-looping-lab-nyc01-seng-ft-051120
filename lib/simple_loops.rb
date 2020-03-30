@@ -18,8 +18,9 @@ end
 
 def output_array(array)
   count = 0 
-  while array[counts] do 
-    puts array[counts]
+  while array[count] do 
+    puts array[count]
     count += 1
   end
 end
+
